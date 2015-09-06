@@ -26,7 +26,25 @@
 - todoList.todos.push
   - todoLis.todos に要素を追加
 
-
+## メモ
+- 課題
+  - omniFocusの要素を取り入れてみる
+    - タスク単体
+      - コンテキスト
+      - メモ
+      - 期限
+      - プロジェクト
+      - 延期
+    - 全体
+      - タスクのネスト
+      - 検索
+      - 絞込表示
+      - プロジェクトビュー
+      - コンテキストビュー
+  - アプリケーションとしての実用性
+    - データの永続性(これはサーバーサイドをいじれる様になってから？)
+    - 見た目
+    - 操作性
 
 ## 未整理
 - [angular.forEach](http://js.studio-kingdom.com/angularjs/ng_global_apis/angular_foreach)
