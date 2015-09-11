@@ -1,4 +1,6 @@
 # todoApp
+AngularJSの習作
+
 ## AngularJS
 - ng-app
   - Angularアプリケーションである事の宣言。読み込むモジュール名を指定する
